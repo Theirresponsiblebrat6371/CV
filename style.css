@@ -1,0 +1,31 @@
+/*************Tags selection***************/
+
+body{
+  background-color: #EAF6F6;
+}
+h1{
+  color: #66BFBF;
+}
+
+h3{
+  color: #66BFBF;
+}
+     
+hr{
+  border-style : dotted none none;
+  border-color : black;
+  border-width : 5px;
+  width : 10%;
+}
+img{
+  height : 200px;
+  width : 200px;
+  
+} 
+
+
+/*************Class selection**************/
+
+.Dracian{
+  border-radius: 100%;
+}
